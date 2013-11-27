@@ -1,6 +1,7 @@
 csv/
 data/
 csv_batch/
+csv_batch_100/
 *.pyc
 *.tar
 *.tar.gz
