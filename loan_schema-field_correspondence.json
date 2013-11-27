@@ -1,0 +1,24 @@
+{
+    "id": "loan_id",
+    "activity": "activity",
+    "borrower_count": "borrower_count",
+    "funded_amount": "funded_amount",
+    "image": 
+        {
+            "id": "image_id",
+            "template_id": null
+        },
+    "loan_amount": "loan_amount",
+    "location":
+        {
+            "country": "location_country",
+            "country_code": "location_country_code",
+            "geo": null
+        },
+   "name": "borrower_name",
+   "partner_id": "partner_id",
+   "posted_date": "posted_date",
+   "sector": "sector",
+   "status": "status",
+   "use": "use"
+}

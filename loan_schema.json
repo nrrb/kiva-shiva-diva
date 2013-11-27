@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "activity": "Farming",
+    "borrower_count": 1,
+    "funded_amount": 1500,
+    "image": 
+        {
+            "id": 1,
+            "template_id": 1
+        },
+    "loan_amount": 1500,
+    "location":
+        {
+            "country": "Georgia",
+            "country_code": "GE",
+            "geo":
+                {
+                    "level": "country",
+                    "pairs": "42 43.5",
+                    "type": "point"
+                }
+        },
+   "name": "Murtaz",
+   "partner_id": 181,
+   "posted_date": "2011-12-09T14:30:04Z",
+   "sector": "Agriculture",
+   "status": "paid",
+   "use": "to purchase a polyethylene cover for his greenhouse."
+}
